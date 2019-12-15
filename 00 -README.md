@@ -8,7 +8,7 @@ resources for studying the AZ-203 exam meterial
 
 ### 1. Implement solutions that use virtual machines (VM)
 
-#### A. [/01-Provision-VMs.md](Provision VMs)
+#### A. [Provision VMs](01-Provision-VMs.md)
 
 #### B. Create ARM Templates
 
