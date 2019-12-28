@@ -12,3 +12,5 @@ Links
 
 https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-manager-quickstart-create-templates-use-the-portal
 
+https://docs.microsoft.com/en-us/azure/azure-resource-manager/
+
